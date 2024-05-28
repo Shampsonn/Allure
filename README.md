@@ -1,2 +1,2 @@
-![AllureScrin1.png](..%2F..%2FOneDrive%2F%D0%E0%E1%EE%F7%E8%E9%20%F1%F2%EE%EB%2FAllureScrin1.png)
-![Allure2.png](..%2F..%2FOneDrive%2F%D0%E0%E1%EE%F7%E8%E9%20%F1%F2%EE%EB%2FAllure2.png)
+![image](https://github.com/Shampsonn/Allure/assets/127683358/d648d866-cdaf-4331-a485-9d75c90ab340)
+![image](https://github.com/Shampsonn/Allure/assets/127683358/01ee84ed-4bb7-4cea-9a2f-7cf88b534dec)
